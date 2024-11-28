@@ -80,10 +80,10 @@ body {
   font-size: 14px;
 }
 
-/* Responsive Design */
+/* Responsive */
 @media (max-width: 768px) {
   .gallery img {
-    max-width: 45%; /* Smaller boxes for tablets */
+    max-width: 45%; /* tablets */
   }
 }
 
@@ -96,6 +96,6 @@ body {
     margin-top: 10px;
   }
   .gallery img {
-    max-width: 90%; /* Full-width for mobile */
+    max-width: 90%; /* mobiles */
   }
 }
